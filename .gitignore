@@ -5,3 +5,5 @@ lib
 esdocs
 coverage
 build
+package-lock.json
+**/package-lock.json
